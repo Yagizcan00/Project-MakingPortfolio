@@ -2,4 +2,5 @@
 
 -> https://yagizportfolio.netlify.app/
 
--> This project is not finished yet !!!
+-> This project is not finished yet !
+
